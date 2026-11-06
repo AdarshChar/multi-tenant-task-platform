@@ -2,6 +2,10 @@
 
 A full-stack task manager I built from scratch with **React + Vite** on the frontend and **Node.js + Express + SQLite** on the backend. It started as a learning project: I rebuilt a small task app from the ground up, then compared my version against a reference implementation and kept extending it. It grew into a multi-tenant app with JWT auth, row-level data isolation, and tiered rate limiting.
 
+---
+
+*This README and the learning notes are based on my own notes from building the project, organized and edited with Claude.*
+
 I wrote down what I learned along the way. The design decisions are below, and my longer study notes are in [`docs/learning-notes.md`](docs/learning-notes.md).
 
 ## Features
